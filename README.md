@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-This is the sample file
+This is the readme file
 New repository called hello-world is created
